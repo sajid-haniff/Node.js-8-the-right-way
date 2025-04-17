@@ -1,5 +1,6 @@
 #!/usr/bin/env node
-// watcher.js
+//  chmod +x watcher.js
+// ./watcher-argv.js target.txt
 import { watch } from 'fs';
 
 
